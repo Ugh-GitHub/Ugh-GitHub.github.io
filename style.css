@@ -1,25 +1,40 @@
 body {
-	font: 18px Arial;
+	font: 14px Arial;
 	// This is where a background texture would go if I had one
 }
 .container {
 	width: 700px;
 	margin: 40px auto 60px;
 }
+h1 {
+	font-size: 18px;
+	font-weight: bold;
+}
 h3 {
+	font-size: 18px;
 	color: #99ccff;	
 }
 h4 {
+	font-size: 18px;
 	color: #99ccff;
 }
 .location-date {
+	font-size: 16px;
 	color: #99ccff;
 }
 .job-date {
+	font-size: 16px;
 	color: #99ccff;
 	float: right;
 }
 
 p {
 	color: #99ccff;
+}
+.Uni-Info {
+	font-size: 10px;	
+}
+.contact {
+	font-size: 16px;
+	font-weight: bold;
 }
