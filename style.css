@@ -1,3 +1,19 @@
+#container {
+	
+}
+h3 {
+	color: purple;	
+}
+h4 {
+	color: blue;
+}
+.location-date {
+	color: green;
+}
+.job-date {
+	color: brown;
+}
+
 p {
 	color: red;
 }
