@@ -3,7 +3,10 @@ body {
 	margin: 5px;
 }
 .background {
-	margin: 40px 80px 40px;
+	margin-top: 40px;
+	maring-right: 80px;
+	margin-left: 80px;
+	margin-bottom: 40px;
 	background-color: #32ab9f;
 	border-radius: 10px;
 }
