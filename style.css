@@ -6,7 +6,8 @@ body {
 .container {
 	margin-left: 45%;
 	margin-right:45%;
-	margin: 40px auto 60px;
+	margin: 40px 200px 60px;
+	background-color: #32ab9f;
 }
 h1 {
 	font-size: 20px;
