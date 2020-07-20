@@ -1,17 +1,14 @@
 body {
 	font: 14px Arial;
 	margin: 5px;
-	// This is where a background texture would go if I had one
 }
 .background {
 	margin: 80px 80px 80px;
-	background-color: #FFFAF0;
+	background-color: #32ab9f;
 	border-radius: 10px;
 }
 .container {
 	margin: 100px 100px 100px;
-	padding: 25px 25px 25px 25px;
-	background-color: #32ab9f;
 }
 h1 {
 	font-size: 20px;
