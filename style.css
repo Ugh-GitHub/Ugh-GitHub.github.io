@@ -10,6 +10,7 @@ body {
 }
 .container {
 	margin: 100px 100px 100px;
+	padding: 25px 25px 25px 25px;
 	background-color: #32ab9f;
 }
 h1 {
