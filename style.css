@@ -1,6 +1,6 @@
 body {
 	font: 14px Arial;
-	margin: 10px;
+	margin: 5px;
 	// This is where a background texture would go if I had one
 }
 .container {
@@ -38,7 +38,7 @@ h5 {
 }
 
 p {
-	color: #99ccff;
+	
 }
 .Uni-Info {
 	font-size: 10px;	
