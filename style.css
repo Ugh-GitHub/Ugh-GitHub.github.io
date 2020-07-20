@@ -1,5 +1,6 @@
 body {
 	font: 14px Arial;
+	margin: 15px;
 	// This is where a background texture would go if I had one
 }
 .container {
@@ -9,6 +10,10 @@ body {
 h1 {
 	font-size: 18px;
 	font-weight: bold;
+}
+h2 {
+	font-size: 14px;
+	margin-bottom: 5px;
 }
 h3 {
 	font-size: 18px;
