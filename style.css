@@ -3,8 +3,13 @@ body {
 	margin: 5px;
 	// This is where a background texture would go if I had one
 }
+.background {
+	margin: 80px 80px 80px;
+	background-color: #32ab9f;
+	border-radius: 10px;
+}
 .container {
-	margin: 40px 100px 60px;
+	margin: 100px 100px 100px;
 	background-color: #32ab9f;
 }
 h1 {
