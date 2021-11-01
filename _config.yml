@@ -36,7 +36,7 @@ minima:
   # skin: solarized-dark
   date_format: "%a, %b %-d, %Y (week %V)"
   social_links:
-    twitter: N/A
+    # twitter: N/A
     github: Ugh-GitHub
     linkedin: peter-pierce-2b757737
     # facebook: yshmarov
