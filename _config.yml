@@ -28,12 +28,13 @@ url: "Ugh-GitHub.github.io" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 # theme: minima
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minima:
+minimal-mistakes:
   # skin: classic
-  skin: dark
-  #skin: solarized-dark
+  # skin: dark
+  # skin: solarized-dark
   date_format: "%a, %b %-d, %Y (week %V)"
   social_links:
     # twitter: N/A
@@ -43,6 +44,7 @@ minima:
     
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
