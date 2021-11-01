@@ -31,9 +31,9 @@ url: "Ugh-GitHub.github.io" # the base hostname & protocol for your site, e.g. h
 remote_theme: jekyll/minima
 
 minima:
-  skin: classic
-  # skin: dark
-  # skin: solarized-dark
+  # skin: classic
+  skin: dark
+  #skin: solarized-dark
   date_format: "%a, %b %-d, %Y (week %V)"
   social_links:
     # twitter: N/A
