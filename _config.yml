@@ -28,10 +28,10 @@ url: "Ugh-GitHub.github.io" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 # theme: minima
-# remote_theme: jekyll/minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: jekyll/minima
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal-mistakes:
+minima:
   # skin: classic
   # skin: dark
   # skin: solarized-dark
